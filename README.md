@@ -21,4 +21,4 @@ The system acts as a smart inspector:
 3. Run the "QC Simulation" cell to see the result.
 
 ---
-*By [Your Name] - Mechatronics Engineer*
+*By [لينا محمد هاني علي] - Mechatronics Engineer*
